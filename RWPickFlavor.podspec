@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
   s.homepage = "https://github.com/TheCodedSelf/RWPickFlavor"
   
   # 6 - Replace this URL with your own Git URL from "Quick Setup"
-  s.source = { :git => "https://github.com/TheCodedSelf/RWPickFlavor.git", 
+  s.source = { :git => "https://github.com/elviva404/RWPickFlavor.git", 
                :tag => "#{s.version}" }
   
   # 7
